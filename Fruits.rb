@@ -57,7 +57,7 @@ allsand={A:beef1,B:chicken1,C:salmon1}
 
 class Menu
   def initialize(number_items)
-    
+  end
 
 
 
