@@ -64,7 +64,7 @@ class Menu
 
 basket=[]
 def fruitsmenu(allfruit)
-  puts "Welcome to fruitsdivision, please choose one of these!"
+  puts "Welcome to the awesome fruitsdivision, please choose one of these!"
   allfruit.each do |id, product|
     puts "#{id}) #{product[:product]} #{price[:price]} #{age[:age]}
   end
